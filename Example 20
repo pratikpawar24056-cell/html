@@ -1,0 +1,15 @@
+<table border="1" width="50%">
+</table>
+
+ 
+
+2. <tr> Tag (Table Row)
+
+The <tr> tag creates a row inside the table.
+
+Example
+
+<tr>
+    <td>John</td>
+    <td>BCA</td>
+</tr>
