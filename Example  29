@@ -1,0 +1,16 @@
+<tr>
+    <td colspan="2">Total Students</td>
+</tr>
+
+ 
+
+Example of rowspan
+
+<tr>
+    <td rowspan="2">BCA</td>
+    <td>Semester 1</td>
+</tr>
+
+<tr>
+    <td>Semester 2</td>
+</tr>
